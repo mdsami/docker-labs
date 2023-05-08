@@ -54,7 +54,8 @@ Feel free to explore and experiment with the labs. Docker Labs is designed to pr
  -  ELK
  -  Metabase and Postgres
  -  Parse and Parse Dashboard
- -  MySql and Phpmyadmin
+ -  MYSQL and Phpmyadmin
+-   Jenkins
  -  RabbitMQ
  -  Rancher
  -  Traefik
