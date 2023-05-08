@@ -66,6 +66,6 @@ Feel free to explore and experiment with the labs. Docker Labs is designed to pr
 
 Contributions to Docker Labs are welcome! If you have an idea for a new lab or an improvement to an existing lab, feel free to submit a pull request. Please refer to the contributing guidelines for more information.
 
-License
+# License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
