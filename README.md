@@ -3,12 +3,12 @@
 This repository contains a collection of Docker labs and exercises to help you learn and practice Docker concepts and techniques. Whether you are a beginner or an experienced Docker user, these labs will provide hands-on experience to deepen your understanding and improve your skills with Docker.
 
 ## Table of Contents
-- ** Introduction **
-- ** Requirements  **
-- ** Getting Started  **
-- ** Lab List  **
-- ** Contributing **
-- ** License **
+-  Introduction
+- Requirements 
+-  Getting Started 
+-  Lab List 
+-  Contributing
+-  License
 
 
 Docker Labs is a curated set of exercises designed to cover various aspects of Docker, including container management, networking, image creation, Docker Compose, and more. Each lab is self-contained and focuses on a specific topic, providing clear instructions and sample solutions.
@@ -42,22 +42,22 @@ Feel free to explore and experiment with the labs. Docker Labs is designed to pr
 
 ## The following labs are included in this repository:
 
-- ** Lab 1: Introduction to Docker **
-- ** Lab 2: Docker Images and Containers **
-- ** Lab 3: Docker Networking **
-- ** Lab 4: Docker Volumes and Data Management **
-- ** Lab 5: Docker Compose **
-- ** Lab 6: Docker Swarm Mode **
+-  Lab 1: Introduction to Docker
+-  Lab 2: Docker Images and Containers
+-  Lab 3: Docker Networking
+-  Lab 4: Docker Volumes and Data Management
+-  Lab 5: Docker Compose
+-  Lab 6: Docker Swarm Mode
 
 # Lab List
 
- - ** ELK **
- - ** Metabase **
- - ** Parse **
- - ** MySql and Phpmyadmin **
- - ** RabbitMQ **
- - ** Rancher **
- - ** Traefik **
+ -  ELK
+ -  Metabase
+ -  Parse
+ -  MySql and Phpmyadmin
+ -  RabbitMQ
+ -  Rancher
+ -  Traefik
 
 ## Each lab is self-contained in its own directory and includes a README.md file with detailed instructions on the lab exercises.
 
