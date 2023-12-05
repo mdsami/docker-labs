@@ -59,6 +59,7 @@ Feel free to explore and experiment with the labs. Docker Labs is designed to pr
  -  RabbitMQ
  -  Rancher
  -  Traefik
+ -  Orange hrm
 
 ## Each lab is self-contained in its own directory and includes a README.md file with detailed instructions on the lab exercises.
 
